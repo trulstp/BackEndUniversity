@@ -59,7 +59,7 @@ class User extends Database {
         
     }
     
-    public function loginUser(){
+    public function jfjfjfjfjfloginUser(){
         //echo "USER : LoginUser!<br>";
         
         /*
